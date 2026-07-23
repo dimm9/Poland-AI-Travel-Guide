@@ -1,0 +1,52 @@
+[
+{
+"id": "trip_001",
+"title": "Weekend w Tatrach z psem",
+"description": "Zrelaksuj się w przytulnym domku z bali z widokiem na Giewont. Idealne miejsce na wycieczki górskie. Twój pupil jest u nas mile widziany bez dodatkowych opłat!",
+"price_pln": 850,
+"location": "Zakopane, Tatry",
+"lat": 49.299,
+"lng": 19.949,
+"tags": ["góry", "z psem", "natura", "weekend"]
+},
+{
+"id": "trip_002",
+"title": "Szlakiem Bursztynu",
+"description": "Trzydniowe zwiedzanie Trójmiasta. W pakiecie przewodnik po gdańskiej starówce, bilet do Muzeum II Wojny Światowej oraz rejs statkiem na Hel.",
+"price_pln": 1200,
+"location": "Gdańsk, Pomorze",
+"lat": 54.352,
+"lng": 18.646,
+"tags": ["morze", "historia", "miasto", "muzea"]
+},
+{
+"id": "trip_003",
+"title": "Żeglarski Tydzień na Mazurach",
+"description": "Wynajem jachtu kabinowego na jeziorze Śniardwy. Niezapomniana przygoda na wodzie, wieczorne ogniska i spanie pod gwiazdami. Wymagany patent żeglarski.",
+"price_pln": 2500,
+"location": "Mikołajki, Mazury",
+"lat": 53.800,
+"lng": 21.572,
+"tags": ["jeziora", "żeglarstwo", "aktywny wypoczynek", "natura"]
+},
+{
+"id": "trip_004",
+"title": "Królewski Kraków i Smoki",
+"description": "Poczuj magię dawnej stolicy. Nocleg w butikowym hotelu na Kazimierzu. Wycieczka obejmuje Wawel, Rynek Główny i warsztaty kulinarne z lepienia obwarzanków.",
+"price_pln": 950,
+"location": "Kraków, Małopolska",
+"lat": 50.064,
+"lng": 19.944,
+"tags": ["miasto", "historia", "kultura", "jedzenie"]
+},
+{
+"id": "trip_005",
+"title": "Karkonosze dla początkujących",
+"description": "Zdobywamy Śnieżkę! Zorganizowany trekking z przewodnikiem. W cenie nocleg w schronisku i wyżywienie. Trasa dopasowana dla osób o średniej kondycji.",
+"price_pln": 600,
+"location": "Karpacz, Karkonosze",
+"lat": 50.774,
+"lng": 15.748,
+"tags": ["góry", "trekking", "budżetowe", "aktywny wypoczynek"]
+}
+]
